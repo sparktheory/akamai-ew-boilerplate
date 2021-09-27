@@ -1,6 +1,6 @@
 {
   "name": "akamai-ew-boilerplate",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "An Akamai EdgeWorker boilerplate.",
   "main": "dist/main.js",
   "scripts": {
