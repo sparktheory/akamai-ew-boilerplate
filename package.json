@@ -1,5 +1,5 @@
 {
-  "name": "akamai-worker-template",
+  "name": "akamai-ew-boilerplate",
   "version": "0.1",
   "description": "An Akamai EdgeWorker boilerplate.",
   "main": "dist/main.js",
