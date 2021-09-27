@@ -1,0 +1,20 @@
+{
+  "name": "akamai-worker-template",
+  "version": "0.1",
+  "description": "An Akamai EdgeWorker boilerplate.",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^20.0.0",
+    "@rollup/plugin-node-resolve": "^13.0.5",
+    "rollup": "^2.57.0",
+    "rollup-plugin-copy-assets": "^2.0.3",
+    "rollup-plugin-json": "^4.0.0"
+  },
+  "dependencies": {}
+}
